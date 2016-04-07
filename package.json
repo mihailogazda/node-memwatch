@@ -1,5 +1,5 @@
 {
-  "name": "memwatch-next",
+  "name": "memwatch",
   "description": "Keep an eye on your memory usage, and discover and isolate leaks.",
   "version": "0.2.10",
   "author": "Lloyd Hilaiel (http://lloyd.io)",
